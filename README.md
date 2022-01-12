@@ -5,4 +5,4 @@ This tracks all values over the network, real-time positioning of the chips and 
 methods.
 
 ## Video
-[Check out a quick demo of the game on Youtube.](https://www.youtube.com/watch?v=O047JSlQLFE&t=185s)
+[Check out a quick demo of the game on Youtube.](https://youtu.be/TnvpYquMqNk)
