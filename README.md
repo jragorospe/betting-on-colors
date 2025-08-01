@@ -3,7 +3,8 @@
 Place live bets with draggable chips and win in real-time networked sessions.
 
 <img width="1300" height="731" alt="Betting on Colors Screenshot" src="https://github.com/user-attachments/assets/01af3c3e-3be2-4602-aaf7-7fb6fb57d3a3" />
-> [Video Showcase](https://youtu.be/TnvpYquMqNk)
+
+[Video Showcase](https://youtu.be/TnvpYquMqNk)
 
 ## Features
 - **Real-time Multiplayer:** Seamless networking with Photon engine.
