@@ -1,8 +1,35 @@
-# Betting on Colors - Photon Powered Multiplayer Gambling Game
-Wanted to play around with real time position tracking and multiplayer networking using Photon.
-<br>This is a quick multiplayer prototype made using Unity 3D and Photon. Place your bet by dragging chips of various values into one of two squares. 
-This tracks all values over the network, real-time positioning of the chips and is optimized using techniques such as object pooling, baked lighting and, no code in Update() 
-methods.
+# Betting on Colors
+**Photon-powered multiplayer gambling game built in Unity 3D.**  
+Place live bets with draggable chips and win in real-time networked sessions.
 
-## Video
-[Check out a quick demo of the game on Youtube.](https://youtu.be/TnvpYquMqNk)
+> [Video Showcase](https://youtu.be/TnvpYquMqNk)
+
+## Features
+- **Real-time Multiplayer:** Seamless networking with Photon engine.
+- **Position Tracking:** Drag-and-drop betting chips sync instantly across all clients.
+- **Betting System:** Chips with multiple values, bet on one of two squares.
+- **Performance Optimizations :** Object pooling, baked lighting, and zero Update() method code.
+
+## How to Play
+Bet against other players by dragging chips onto your chosen square. Bets and chip values are synchronized in real-time. Watch as results are revealed after all bets are placed!
+
+## Installation
+1. **Clone the Repository:**
+`git clone https://github.com/jragorospe/betting-on-colors.git`
+2. **Open in Unity:**
+- Use Unity 3D (version 2022.x+ recommended).
+- Open the project folder in Unity Hub.
+3. **Setup Photon:**
+- Create a free Photon account ([https://www.photonengine.com/](https://www.photonengine.com/)).
+- Add your App ID to the Photon settings in the Unity editor.
+4. **Run:**
+- Click Play in Unity to host or join a multiplayer session.
+
+## Tech Stack
+- Unity 3D
+- Photon Unity Networking (PUN)
+- C#
+- Object Pooling
+
+## Credits
+- Solo developed by Joseph Gorospe
